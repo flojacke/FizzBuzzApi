@@ -1,0 +1,4 @@
+com\frey\fizzbuzz\controller\FizzBuzzController.class
+com\frey\fizzbuzz\service\FizzBuzzService.class
+com\frey\fizzbuzz\service\FizzBuzzServiceImpl.class
+com\frey\fizzbuzz\SpringBootFizzBuzzApplication.class

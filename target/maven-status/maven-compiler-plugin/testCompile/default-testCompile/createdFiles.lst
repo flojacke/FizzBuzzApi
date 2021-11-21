@@ -1,0 +1,3 @@
+com\frey\fizzbuzz\SpringBootFizzBuzzApplicationTests.class
+com\frey\fizzbuzz\test\FizzBuzzControllerTest.class
+com\frey\fizzbuzz\test\FizzBuzzServiceTest.class
